@@ -1,0 +1,9 @@
+[submodule "external/cpython"]
+	path = external/cpython
+	url = https://github.com/python/cpython.git
+[submodule "external/subversion"]
+	path = external/subversion
+	url = https://github.com/apache/subversion.git
+[submodule "external/apr"]
+	path = external/apr
+	url = https://github.com/apache/apr.git
