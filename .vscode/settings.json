@@ -1,0 +1,16 @@
+{
+    "python.venvPath": "${workspaceFolder}/venvs",
+    "C_Cpp.default.includePath": ["${default}", 
+                                  "${workspaceRoot}/external/cpython/Include/",
+                                  "${workspaceRoot}/external/cpython/PC/",
+                                  "${workspaceRoot}/external/subversion/subversion/include/",
+                                  "${workspaceRoot}/external/subversion/subversion/libsvn_ra/",
+                                  "${workspaceRoot}/external/apr/include"],
+    "files.associations": {
+        "python.h": "c",
+        "svn_client.h": "c",
+        "svn_cmdline.h": "c",
+        "svn_ra.h": "c"
+    },
+    "python.pythonPath": "venvs\\3.8-64\\Scripts\\python.exe"
+}

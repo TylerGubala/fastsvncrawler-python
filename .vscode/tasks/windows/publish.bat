@@ -1,0 +1,1 @@
+.\venv\3.8-64\Scripts\twine.exe upload dist/*
